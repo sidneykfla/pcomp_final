@@ -4,6 +4,27 @@ DIG 333 - Physical Computing Final Project
 ## Wiring Schematic
 ![Screen Shot 2022-05-12 at 3 58 26 AM](https://user-images.githubusercontent.com/68158566/168021313-7b5863fb-cab2-431e-becc-25067940746a.png)
 
+| LED number | GPIO Pin |
+|------------|----------|
+|     1      |    2     |
+|     2      |    3     |
+|     3      |    4     |
+|     4      |    5     |
+|     5      |    6     |
+|     6      |    7     |
+|     7      |    8     |
+|     8      |    9     |
+|     9      |    10    |
+|     10     |    11    |
+|     11     |    12    |
+|     12     |    25    |
+|     13     |    14    |
+|     14     |    15    |
+|     15     |    16    |
+|     16     |    17    |
+|     17     |    23    |
+|     18     |    24    |
+
 
 ## Demo
 1. Clone repository
